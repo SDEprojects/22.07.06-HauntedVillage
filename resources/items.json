@@ -1,14 +1,30 @@
+<<<<<<< HEAD
 {
   "matches": {
     "name": "matches",
     "location": "home",
+=======
+[
+  {
+  "matches": {
+    "name": "matches",
+    "location": "home",
+    "description": "some matches",
+>>>>>>> dd73dc0eedcd3e692d43a603efcd759ad5f787ea
     "use_location": "church",
     "health_reduction": "0",
     "boss_kill": "False"
   },
+<<<<<<< HEAD
   "cross ": {
     "name": "cross ",
     "location": "home",
+=======
+  "cross": {
+    "name": "cross",
+    "location": "home",
+    "description": "a cross",
+>>>>>>> dd73dc0eedcd3e692d43a603efcd759ad5f787ea
     "use_location": "church",
     "health_reduction": "-1",
     "boss_kill": "False"
@@ -16,6 +32,10 @@
   "knife": {
     "name": "knife",
     "location": "home",
+<<<<<<< HEAD
+=======
+    "description": "a knife",
+>>>>>>> dd73dc0eedcd3e692d43a603efcd759ad5f787ea
     "use_location": "all",
     "health_reduction": "3",
     "boss_kill": "False"
@@ -23,6 +43,10 @@
   "shovel": {
     "name": "shovel",
     "location": "farm",
+<<<<<<< HEAD
+=======
+    "description": "a shovel",
+>>>>>>> dd73dc0eedcd3e692d43a603efcd759ad5f787ea
     "use_location": "all",
     "health_reduction": "2",
     "boss_kill": "False"
@@ -30,6 +54,10 @@
   "musket": {
     "name": "musket",
     "location": "farm",
+<<<<<<< HEAD
+=======
+    "description": "a musket",
+>>>>>>> dd73dc0eedcd3e692d43a603efcd759ad5f787ea
     "use_location": "all",
     "health_reduction": "3",
     "boss_kill": "False"
@@ -37,6 +65,10 @@
   "silver_bullet": {
     "name": "silver bullet",
     "location": "townHall",
+<<<<<<< HEAD
+=======
+    "description": "a silver bullet",
+>>>>>>> dd73dc0eedcd3e692d43a603efcd759ad5f787ea
     "use_location": "farm",
     "health_reduction": "3",
     "boss_kill": "False"
@@ -44,6 +76,10 @@
   "birds_food": {
     "name": "birds food",
     "location": "tavern",
+<<<<<<< HEAD
+=======
+    "description": "some bird food",
+>>>>>>> dd73dc0eedcd3e692d43a603efcd759ad5f787ea
     "use_location": "townHall",
     "health_reduction": "0",
     "boss_kill": "False"
@@ -51,6 +87,7 @@
   "amulet": {
     "name": "triangular amulet",
     "location": "church",
+    "description" : "an amulet",
     "use_location": "well",
     "health_reduction": "0",
     "boss_kill": "False"
@@ -58,6 +95,7 @@
   "blue_gem": {
     "name": "blue stone",
     "location": "well",
+    "description" : "a blue gem",
     "use_location": "woods",
     "health_reduction": "0",
     "boss_kill": "True"
@@ -65,8 +103,13 @@
   "water": {
     "name": "water",
     "location": "well",
+<<<<<<< HEAD
+=======
+    "description": "some water",
+>>>>>>> dd73dc0eedcd3e692d43a603efcd759ad5f787ea
     "use_location": "well",
     "health_reduction": "-1",
     "boss_kill": "False"
   }
 }
+]
