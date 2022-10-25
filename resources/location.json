@@ -24,6 +24,140 @@
         "west": "Home"
       }
     }
-  }
+  },
 
+  {
+    "Norther Square": {
+      "name": "Northern Square",
+      "description": " You are in the northern square. You see some children playing nearby. \n To the North is the well and to the East is the Church. \n You may search the area, speak to the child, or go North, East, or South.  \n\n,,,,
+      "actions": ["search", "leave", "speak"],
+      "items": [],
+      "directions": {
+        "north": "well",
+        "east": "church",
+        "south": "center courtyard",
+        "west": "empty"
+      }
+    }
+  },
+
+  {
+    "South Square": {
+      "name": "South Square",
+      "description": " You are in the south square.   \n To the East is the town hall. To the north is the center courtyard.  \n  To the South is your neighbor's farm. \n\n ",
+      "actions": ["leave"],
+      "items": [""],
+      "directions": {
+        "north": "Center Courtyard",
+        "east": "Townhall",
+        "south": "Farm",
+        "west": ""
+      }
+    }
+  },
+
+  {
+    "Farm": {
+      "name": "Farm",
+      "description": "You find yourself in the farm. You see cows are lying on the floor, bleeding. A werewolf is tearing a cow apart, drinking its blood, eating its flesh. A scarecrow’s head is twisted and hand points to the north.",
+      "actions": [""],
+      "items": [""],
+      "directions": {
+        "north": "",
+        "east": "",
+        "south": "",
+        "west": ""
+      }
+    }
+  },
+
+  {
+    "": {
+      "name": "",
+      "description": "   \n  \n   \n\n ",
+      "actions": [""],
+      "items": [""],
+      "directions": {
+        "north": "",
+        "east": "",
+        "south": "",
+        "west": ""
+      }
+    }
+  },
+
+  {
+    "": {
+      "name": "",
+      "description": "   \n  \n   \n\n ",
+      "actions": [""],
+      "items": [""],
+      "directions": {
+        "north": "",
+        "east": "",
+        "south": "",
+        "west": ""
+      }
+    }
+  },
+
+  {
+    "": {
+      "name": "",
+      "description": "   \n  \n   \n\n ",
+      "actions": [""],
+      "items": [""],
+      "directions": {
+        "north": "",
+        "east": "",
+        "south": "",
+        "west": ""
+      }
+    }
+  },
+
+  {
+    "": {
+      "name": "",
+      "description": "   \n  \n   \n\n ",
+      "actions": [""],
+      "items": [""],
+      "directions": {
+        "north": "",
+        "east": "",
+        "south": "",
+        "west": ""
+      }
+    }
+  },
+
+  {
+    "": {
+      "name": "",
+      "description": "   \n  \n   \n\n ",
+      "actions": [""],
+      "items": [""],
+      "directions": {
+        "north": "",
+        "east": "",
+        "south": "",
+        "west": ""
+      }
+    }
+  },
+
+  {
+    "": {
+      "name": "",
+      "description": "   \n  \n   \n\n ",
+      "actions": [""],
+      "items": [""],
+      "directions": {
+        "north": "",
+        "east": "",
+        "south": "",
+        "west": ""
+      }
+    }
+  }
 ]
