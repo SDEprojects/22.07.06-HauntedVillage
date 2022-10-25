@@ -1,6 +1,6 @@
 package com.game.HauntedVillage;
 
-import com.apps.util.Console;
+import com.apps.util.Console
 import com.fasterxml.jackson.core.JsonFactory;
 import com.fasterxml.jackson.core.JsonGenerationException;
 import com.fasterxml.jackson.core.JsonParser;
