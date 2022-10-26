@@ -13,7 +13,6 @@ public class Menu {
             String playerChoice = scanner.nextLine().trim().toLowerCase();
             if (playerChoice.equals("start")) {
                 condition = true;
-                Sound.runMusic();
             }
         }
     }
